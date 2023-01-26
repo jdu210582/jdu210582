@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bc-expert.bc-expert" />
-<img align="right" src="https://img.shields.io/github/followers/bc-expert?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jdu210582.jdu210582" />
+<img align="right" src="https://img.shields.io/github/followers/jdu210582?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=jdu210582&count_private=true&show_icons=true&theme=chartreuse-dark" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdu210582&layout=compact&theme=chartreuse-dark&langs_count=8" />
